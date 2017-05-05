@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_page"
+            android:title="Home Page" />
+        <item
+            android:id="@+id/battery_life"
+            android:title="Battery Life" />
+        <item
+            android:id="@+id/pH_level"
+            android:title="pH Level" />
+        <item
+            android:id="@+id/average_time"
+            android:title="Average Time" />
+        <item
+            android:id="@+id/debris_detection"
+            android:title="Debris Detection" />
+        <item
+            android:id="@+id/cleaning_frequency"
+            android:title="Cleaning Frequency" />
+        <item
+            android:id="@+id/temperature"
+            android:title="temperature" />
+    </group>
+
+
+
+</menu>
